@@ -1,0 +1,36 @@
+{
+  "name": "chakra-ui-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@chakra-ui/react": "1.0.3",
+    "@craftjs/core": "0.1.0-beta.13",
+    "@emotion/react": "11.1.2",
+    "@emotion/styled": "11.0.0",
+    "@types/react": "16.9.33",
+    "framer-motion": "2.9.5",
+    "lodash": "4.17.20",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
